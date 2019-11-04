@@ -1,6 +1,6 @@
 ## 用JS重塑复古计算机艺术
 
-> **PS：**PPT截图不全，建议大家直接观看视频。<br>
+**PS：**PPT截图不全，建议大家直接观看视频。<br>
 > **演讲者：**[Sher Minn Chong](https://piratefsh.github.io/about/) 来自马来西亚，目前是一名生活在纽约的Web工程师，主要从事生成艺术的研究，并研究早期计算机艺术的历史。她经常在[YouTube](https://www.youtube.com)发布一些[HTML/CSS和JavaScript的教程](http://codeequality.org/2014/06/16/introduction-to-htmlcss.html)。
 
 <iframe width="620" height="349" src="https://www.youtube.com/embed/nC5q5JxLjnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

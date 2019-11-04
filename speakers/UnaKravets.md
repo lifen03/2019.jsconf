@@ -1,6 +1,6 @@
 ## CSS Houdini和样式的未来
 
-> **PS：**PPT截图不全，建议大家直接观看视频。<br>
+**PS：**PPT截图不全，建议大家直接观看视频。<br>
 > **演讲者：**[Una Kravets](https://twitter.com/una)作为IBM Design和Bluemix（两个 IBM 产品）的前端开发，还主持@toolsday和STEMinist两个播客，从创造性和实用性的设计方法到促进社区开源状态，在社区有很多积极的影响。
 
 <iframe width="620" height="349" src="https://www.youtube.com/embed/GhRE3rML9t4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

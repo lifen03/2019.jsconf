@@ -175,7 +175,7 @@
 
 * [Twitter @una](https://twitter.com/ziransun1)
 * [Github @una](https://github.com/ziransun)
-* [Website js.faoundation](https://js.foundation/blog;)
+* [Website js.faoundation](https://js.foundation/blog)
 
 [演讲稿原文地址 https://2019.jsconf.eu/ziran-sun/build-an-end-to-end-iot-system-using-javascript-with-gdpr-awareness.html](https://2019.jsconf.eu/ziran-sun/build-an-end-to-end-iot-system-using-javascript-with-gdpr-awareness.html)
 
